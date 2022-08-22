@@ -28,7 +28,7 @@
     };
             let box = prompt(`Which box do you want to open? (e.g. Space)`);
             let boxes = {
-                safari: 25,
+                safari: 20,
                 aquatic: 20,
                 bot: 20,
                 space: 20,
